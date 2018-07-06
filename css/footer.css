@@ -10,6 +10,7 @@ footer{background: brown;
 .bigpixi-footer-social__list-item {
     display: inline-block;
     margin-left: 16px;
+    margin-top: 26px;
 }
 .bigpixi-footer__icon-link {
     display: inline-block;
